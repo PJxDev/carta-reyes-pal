@@ -1,15 +1,12 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-  ],
+  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     fontFamily: {
       header: ['"Pacifico", sans-serif'],
-      body: ['"Shadows Into Light", sans-serif'],
+      body: ['"Shadows Into Light", sans-serif']
     },
-    extend: {},
+    extend: {}
   },
-  plugins: [],
+  plugins: []
 }
