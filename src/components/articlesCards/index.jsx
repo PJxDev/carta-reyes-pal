@@ -56,8 +56,11 @@ const data = [
       'https://m.media-amazon.com/images/I/61lJoSH9n4L._AC_SX679_.jpg',
       'https://m.media-amazon.com/images/I/61JML6OPdzL._AC_SX679_.jpg'
     ],
-    links:
+    links: [
       'https://www.amazon.es/EasyAcc-Premium-funci%C3%B3n-autom%C3%A1tico-pulgadas/dp/B0BVM7YHZV?th=1',
+      'https://www.amazon.es/Billionn-iPad-pulgadas-2018-2017/dp/B08MQ9KMZD',
+      'https://www.amazon.es/dp/B08XW1P8NJ/ref=twister_B08MQ9M1ZL?_encoding=UTF8&psc=1'
+    ],
     description: 'Parecida a la que tengo ahora. Gris plata me gusta'
   },
   {

@@ -9,9 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "preact": "10.11.2"
+    "preact": "10.11.2",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
+    "@babel/plugin-transform-react-jsx-source": "^7.23.3",
     "@preact/preset-vite": "2.4.0",
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.19",
