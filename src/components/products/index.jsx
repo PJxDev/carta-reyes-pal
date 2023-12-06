@@ -1,5 +1,5 @@
 import React from 'react'
-import Carousel from './carrusel'
+import Carousel from './Carousel'
 import DialogComponent from './DialogComponent'
 
 const carro = (
