@@ -14,28 +14,16 @@ const data = [
     title: 'Adidas Original Sudadera',
     img: [
       'https://img01.ztat.net/article/spp-media-p1/b05c8bdeafca4870ab00232a55626982/3576852f2ad1411f94016be0a0edae28.jpg?imwidth=1800',
-      'https://img01.ztat.net/article/spp-media-p1/6ef779a8657648d7b2b6e3f21d4d75de/a178c88686da4da7b1124fbf230a83f0.jpg?imwidth=1800',
+      'https://img01.ztat.net/article/spp-media-p1/4ce98912f2c044fea5ec9d9fe8c26a77/5e45c5cbf2a7497bbb374de52829ef30.jpg?imwidth=1800',
       'https://img01.ztat.net/article/spp-media-p1/0322f21eca1e45749eca76cdc1312094/f8fedac662364553b39c4239d22b5b8c.jpg?imwidth=1800'
     ],
     links: [
       'https://www.zalando.es/adidas-originals-sudadera-medium-grey-heather-ad121j0qi-c11.html',
-      'https://www.zalando.es/adidas-originals-sudadera-almost-blue-ad121j0qi-k12.html',
+      'https://www.zalando.es/adidas-originals-originals-adicolor-relaxed-sudadera-orbit-green-ad121j0qi-n11.html',
       'https://www.zalando.es/adidas-originals-sudadera-mineral-green-ad121j0qi-m12.html'
     ],
     description:
       'Talla 38. Me gusta gris, aunque también me gusta en azul o verde'
-  },
-  {
-    title: 'Pendientes esmeraldas de la Marca Áurea',
-    img: 'https://aureacomplementos.com/cdn/shop/products/Aurea-Complementos-Pendiente-Mini-Esmeraldas-Oro_a9c17110-4e7a-45ca-a2e3-6be452ec5c2a_1200x.jpg?v=1613047565',
-    links: 'https://aureacomplementos.com/products/aro-esmeraldas',
-    description: 'Pendientes que me  en dorado'
-  },
-  {
-    title: 'Pendiente cadena de la Marca Áurea',
-    img: 'https://aureacomplementos.com/cdn/shop/products/Aurea-Complementos-Pendiente-con-cadena-Oro-1_1200x.jpg?v=1613165198',
-    links: 'https://aureacomplementos.com/products/pendiente-cadena-largo',
-    description: 'Pendiente que me gusta en dorado'
   },
   {
     title: 'Pendiente earcuff de la Marca Áurea',
@@ -44,11 +32,24 @@ const data = [
     description: 'Pendiente que me gusta en dorado'
   },
   {
+    title: 'Pendiente cadena de la Marca Áurea',
+    img: 'https://aureacomplementos.com/cdn/shop/products/Aurea-Complementos-Pendiente-con-cadena-Oro-1_1200x.jpg?v=1613165198',
+    links: 'https://aureacomplementos.com/products/pendiente-cadena-largo',
+    description: 'Pendiente que me gusta en dorado'
+  },
+  {
     title: 'Pendientes laurel de la Marca Áurea',
     img: 'https://aureacomplementos.com/cdn/shop/products/Pendiente-Trepador-Laurel-Dorado-Par-1300x1300_1200x.jpg?v=1626536464',
     links: 'https://aureacomplementos.com/products/pendiente-trepador-laurel',
     description: 'Pendientes que me gustan en dorado'
   },
+  {
+    title: 'Pendientes esmeraldas de la Marca Áurea',
+    img: 'https://aureacomplementos.com/cdn/shop/products/Aurea-Complementos-Pendiente-Mini-Esmeraldas-Oro_a9c17110-4e7a-45ca-a2e3-6be452ec5c2a_1200x.jpg?v=1613047565',
+    links: 'https://aureacomplementos.com/products/aro-esmeraldas',
+    description: 'Pendientes que me  en dorado'
+  },
+
   {
     title: 'Abrigo Rosa de Pull & Bear',
     img: 'https://static.pullandbear.net/2/photos//2023/I/0/1/p/7752/330/620/7752330620_2_1_8.jpg?t=1698657325696&imwidth=1920',
@@ -132,7 +133,7 @@ const data = [
     title: 'Cesta de Ikea',
     img: 'https://www.ikea.com/es/es/images/products/snidad-cesta-ratan__0713103_pe729252_s5.jpg?f=xl',
     links: 'https://www.ikea.com/es/es/p/snidad-cesta-ratan-30394944/',
-    description: 'Depende de lo que sea, talla M o L'
+    description: ''
   }
 ]
 
