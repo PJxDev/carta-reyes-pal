@@ -15,12 +15,12 @@ const data = [
     img: [
       'https://img01.ztat.net/article/spp-media-p1/b05c8bdeafca4870ab00232a55626982/3576852f2ad1411f94016be0a0edae28.jpg?imwidth=1800',
       'https://img01.ztat.net/article/spp-media-p1/6ef779a8657648d7b2b6e3f21d4d75de/a178c88686da4da7b1124fbf230a83f0.jpg?imwidth=1800',
-      'https://img01.ztat.net/article/spp-media-p1/becf308702be475ba8dcf28ace6f1496/205a1e8e071c472dbbb326f67e833e11.jpg?imwidth=1800'
+      'https://img01.ztat.net/article/spp-media-p1/0322f21eca1e45749eca76cdc1312094/f8fedac662364553b39c4239d22b5b8c.jpg?imwidth=1800'
     ],
     links: [
       'https://www.zalando.es/adidas-originals-sudadera-medium-grey-heather-ad121j0qi-c11.html',
       'https://www.zalando.es/adidas-originals-sudadera-almost-blue-ad121j0qi-k12.html',
-      'https://www.zalando.es/adidas-originals-olympic-sports-sudadera-ambient-blush-ad121j0qi-j11.html'
+      'https://www.zalando.es/adidas-originals-sudadera-mineral-green-ad121j0qi-m12.html'
     ],
     description:
       'Talla 38. Me gusta gris, aunque también me gusta en azul o verde'
@@ -32,16 +32,16 @@ const data = [
     description: 'Pendientes que me  en dorado'
   },
   {
-    title: 'Pendientes cadena de la Marca Áurea',
+    title: 'Pendiente cadena de la Marca Áurea',
     img: 'https://aureacomplementos.com/cdn/shop/products/Aurea-Complementos-Pendiente-con-cadena-Oro-1_1200x.jpg?v=1613165198',
     links: 'https://aureacomplementos.com/products/pendiente-cadena-largo',
-    description: 'Pendientes que me gustan en dorado'
+    description: 'Pendiente que me gusta en dorado'
   },
   {
-    title: 'Pendientes earcuff de la Marca Áurea',
+    title: 'Pendiente earcuff de la Marca Áurea',
     img: 'https://aureacomplementos.com/cdn/shop/products/pe806p_1200x.jpg?v=1627841829',
     links: 'https://aureacomplementos.com/products/pendiente-ear-cuff-cadena',
-    description: 'Pendientes que me gustan en dorado'
+    description: 'Pendiente que me gusta en dorado'
   },
   {
     title: 'Pendientes laurel de la Marca Áurea',
