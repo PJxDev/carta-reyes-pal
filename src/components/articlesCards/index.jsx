@@ -55,7 +55,7 @@ const data = [
     img: 'https://static.pullandbear.net/2/photos//2023/I/0/1/p/7752/330/620/7752330620_2_1_8.jpg?t=1698657325696&imwidth=1920',
     links:
       'https://www.pullandbear.com/es/abrigo-largo-pano-l07752330?categoryId=1010141506&cS=620#colorId=620',
-    description: 'Creo que mi talla es L, pero no me lo he podido probar'
+    description: 'Creo que mi talla es S'
   },
   {
     title: 'Funda Ipad',
