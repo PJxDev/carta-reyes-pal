@@ -114,7 +114,7 @@ const data = [
     img: 'https://cdn.paperblanks.com/product_images/9781439793671_Front.webp?1/16/2023',
     links:
       'https://www.paperblanks.com/es/product/journals/diamond-jubilee/pb9367-1',
-    description: 'Tapa dura y tamaño Ultra'
+    description: 'Tapa dura, Hojas lisas y tamaño Ultra'
   },
   {
     title: "Pijama Nintje Woman's Secret",
