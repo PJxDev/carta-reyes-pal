@@ -128,12 +128,6 @@ const data = [
     img: 'https://static.lefties.com/9/static/images/lookbook/1297525/elements/5.jpg?20180504',
     links: 'https://www.zalando.es/deporte-mujer-home/',
     description: 'Depende de lo que sea, talla M o L'
-  },
-  {
-    title: 'Cesta de Ikea',
-    img: 'https://www.ikea.com/es/es/images/products/snidad-cesta-ratan__0713103_pe729252_s5.jpg?f=xl',
-    links: 'https://www.ikea.com/es/es/p/snidad-cesta-ratan-30394944/',
-    description: ''
   }
 ]
 
